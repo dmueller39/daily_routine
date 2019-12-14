@@ -84,6 +84,7 @@ These are less scheduled, but I try to slot them in earlier in the day. I've fou
     - [python](https://ankiweb.net/shared/info/51975584)
     - [software design pattern](https://ankiweb.net/shared/info/701549605)
     - internal technical jargon specific to my job (building this from scratch)
+  - While memorization is a little bit of a goal, I've been finding that this has effects on my overall ability to remember. Just by exercisinglong term memory with any subject feels like it improves recall for all subjects.
 
 # Evening
 
