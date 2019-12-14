@@ -84,3 +84,8 @@ These are less scheduled, but I try to slot them in earlier in the day. I've fou
     - [python](https://ankiweb.net/shared/info/51975584)
     - [software design pattern](https://ankiweb.net/shared/info/701549605)
     - internal technical jargon specific to my job (building this from scratch)
+
+# Evening
+
+- morning coffee prep
+  - Morning me always looks back at evening me with kindness if I prep the coffee. It's like a little gift I give myself.
