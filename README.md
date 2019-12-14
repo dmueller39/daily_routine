@@ -72,7 +72,7 @@ This is what I do first in the morning. Typically I try to get all this done bef
 These are less scheduled, but I try to slot them in earlier in the day. I've found that I get fatigued as the day go on, so if I want my performance on these to be consistent, its best to get them out of the way before lunch.
 
 - nback - working memory training
-  - nback training has a lot of research behind it indicating that in improves your working memory (for example)[https://www.ncbi.nlm.nih.gov/pubmed/30006860]. 
+  - nback training has a lot of research behind it indicating that in improves your working memory [for example](https://www.ncbi.nlm.nih.gov/pubmed/30006860). 
   - I do this with an app on my phone. There are a lot of nback apps out there, but I spend all of my time in an app I built myself. I found that I got frustrated and gave up with the other apps. I knew I wanted to stick with so I started one of my own and I have been working to tune it to my needs. I will try to write about this at some point in the future.
   - nback training, aside from making certain tasks slightly easier, has helped with the anxiety around context switching. My theory is that because I am training my memory to insert and remove items from the working memory, that the effort involved in switching contexts (from say writing code that does something, to making SQL queries to understand something) has gone down.
 - anki - long term memory training
