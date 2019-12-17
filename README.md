@@ -1,5 +1,6 @@
 # dmueller39.github.io
 
-## ~~Articles~~ article
+
+[disclaimer](disclaimer.md)
 
 [daily routine](daily_routine.md)
