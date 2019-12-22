@@ -1,5 +1,6 @@
-Warning #1 please see my [disclaimer](disclaimer.md).
-Warning #2 this is incomplete, and I'd like to annotate all these exercises with notes and examples.
+**Warning #1** please see my [disclaimer](disclaimer.md).
+
+**Warning #2** this is incomplete, and I'd like to annotate all these exercises with notes and examples.
 
 ## Physical Training
 
