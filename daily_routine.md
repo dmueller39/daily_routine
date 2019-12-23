@@ -1,5 +1,9 @@
 # My Daily Routine
 
+**Warning #1** please see my [disclaimer](disclaimer.md).
+
+**Warning #2** these notes are messy and incomplete
+
 ## Introduction
 
 Building off of the daily routine outlined in Tim Ferris's [Tools for Titans](https://www.amazon.com/Tools-Titans-Billionaires-World-Class-Performers/dp/1328683788/) this is outline of what I ([Daniel Mueller](https://twitter.com/dmueller39)) do on a daily basis in order to maximize productivity, happiness, and well being.

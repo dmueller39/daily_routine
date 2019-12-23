@@ -1,6 +1,8 @@
 # NBack
 
-**warning** these notes are messy and incomplete
+**Warning #1** please see my [disclaimer](disclaimer.md).
+
+**Warning #2** these notes are messy and incomplete
 
 ## How it helps me
 
