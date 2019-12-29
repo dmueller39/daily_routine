@@ -8,3 +8,5 @@
 [workout routine](physical_training.md)
 
 [nback](nback_notes.md)
+
+[writing qualities](writing_qualities.md)
