@@ -1,3 +1,8 @@
+---
+layout: index
+title: Index
+---
+
 # Index
 
 ## About
