@@ -1,4 +1,5 @@
 # Writing Qualities
+Inspired by [this quote](https://www.goodreads.com/quotes/7727997-he-singled-out-aspects-of-quality-such-as-unity-vividness) this is an attempt to enumerate the qualities of writing which you can improve.
 ## Unity
 The state of forming a complete and pleasing whole, especially in an artistic context: the repeated phrases give the piece unity and cohesion
 ## Vividness
