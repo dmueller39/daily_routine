@@ -1,9 +1,9 @@
 ---
-layout: index
-title: Index
+layout: no_home
+title: Home
 ---
 
-# Index
+# Home
 
 ## About
 
