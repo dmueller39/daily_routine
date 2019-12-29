@@ -28,4 +28,4 @@ Depth is the level of emotional and intellectual connection that you can have wi
 ## Positivity
 The amount of positive vs negative language that is used. This does not mean being positive in spite of facts, but rather phrasing things in a positive manner when possible and appropriate. "Use positive language because it improves the brightness of your words" vs "Don't use negative language because it makes your writing dim and dark."
 ## Contrast
-Using subtly different phrasing and presentation methods to avoid repetition. "The car was blue. It had leather seats. It had " 
+The level of difference between concepts or phrases.
