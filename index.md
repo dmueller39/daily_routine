@@ -5,13 +5,9 @@ title: Home
 
 # Home
 
-## About
-
-This collection of writing is note taking in public. It is meant to capture the best of my thoughts that would normally disappear into a journal or simply pass out of memory.
+[disclaimer](disclaimer.md)
 
 ## Articles
-
-[disclaimer](disclaimer.md)
 
 [daily routine](daily_routine.md)
 
