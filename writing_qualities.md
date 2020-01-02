@@ -1,6 +1,17 @@
 # Writing Qualities
 
-This list is inspired by [this quote](https://www.goodreads.com/quotes/7727997-he-singled-out-aspects-of-quality-such-as-unity-vividness).
+I want to improve my writing. However that is an unspecific goal. The only advice I seem to read on how to improve your writing is to write more. Here is a quote from Ira Glass:
+
+>Nobody tells this to people who are beginners, I wish someone told me. All of us who do creative work, we get into it because we have good taste. But there is this gap. For the first couple years you make stuff, it’s just not that good. It’s trying to be good, it has potential, but it’s not. But your taste, the thing that got you into the game, is still killer. And your taste is why your work disappoints you.
+> A lot of people never get past this phase, they quit. Most people I know who do interesting, creative work went through years of this. We know our work doesn’t have this special thing that we want it to have. We all go through this. And if you are just starting out or you are still in this phase, you gotta know its normal and the most important thing you can do is do a lot of work.
+> Put yourself on a deadline so that every week you will finish one story. It is only by going through a volume of work that you will close that gap, and your work will be as good as your ambitions. And I took longer to figure out how to do this than anyone I’ve ever met. It’s gonna take awhile. It’s normal to take awhile. You’ve just gotta fight your way through.
+
+This doesn't sound very fun to me. In contrast, something that attacted me to writing software is that in your early days, the computer tells you what is specifically wrong about the work you have done. You get errors with line numbers. I started looking for a way to build a similar system around my writing. Then I came across this quote:
+
+> He singled out aspects of Quality such as unity, vividness, authority, economy, sensitivity, clarity, emphasis, flow, suspense, brilliance, precision, proportion, depth and so on; kept each of these as poorly defined as Quality itself, but demonstrated them by the same class reading techniques. He showed how the aspect of Quality called unity, the hanging-togetherness of a story, could be improved with a technique called an outline. The authority of an argument could be jacked up with a technique called footnotes, which gives authoritative reference. Outlines and footnotes are standard things taught in all freshman composition classes, but now as devices for improving Quality they had a purpose. And if a student turned in a bunch of dumb references or a sloppy outline that showed he was just fulfilling an assignment by rote, he could be told that while his paper may have fulfilled the letter of the assignment it obviously didn’t fulfill the goal of Quality, and was therefore worthless.
+― Robert M. Pirsig, Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values
+
+I agree with the overall concept of identifying qualities for improvement, but because I need to teach these to myself I am going to keep definitions in mind. My hope is that by having names for different qualities of writing I'll remember them more easily and apply them more frequently. By being able to name what is specifically wrong with my writing the hope is I will be able to more quickly improve it.
 
 You can download an Anki-ready text file of these qualities [here](writing_qualities_anki.txt)
 
