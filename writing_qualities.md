@@ -1,27 +1,29 @@
 # Writing Qualities
-Inspired by [this quote](https://www.goodreads.com/quotes/7727997-he-singled-out-aspects-of-quality-such-as-unity-vividness) this is an attempt to enumerate the qualities of writing which you can improve.
+
+I am in the process of improving my writing. One approach I am taking is attempting to understand all the properties writing can have that affect its overall quality. In other words, you can't work to improve one of these qualities without having learned it. This list is inspired by [this quote](https://www.goodreads.com/quotes/7727997-he-singled-out-aspects-of-quality-such-as-unity-vividness).
+
 ## Unity
-The state of forming a complete and pleasing whole, especially in an artistic context: the repeated phrases give the piece unity and cohesion
+The state of forming a complete and pleasing whole, especially in an artistic context. "The concepts presented in the piece have a tight connection to each other which gives it unity and cohesion."
 ## Vividness
-Producing powerful feelings or strong, clear images in the mind. 
+Producing powerful feelings or strong, clear images in the mind. "The carefully selected details of the description gave the room a vividness in the minds of the reader."
 ## Authority
-The power to influence others, especially because of ones commanding manner or ones recognized knowledge about something. He spoke with authority on the subject. A book or other source able to supply reliable information or evidence, typically to settle a dispute. The court cited a series of authorities on the subject.
+The power to influence others, especially because of ones commanding manner or ones recognized knowledge about something. "The research and experience of the author gave her writing authority on the subject she was writing on."
 ## Economy
-Careful management of available resources. Sparing or careful use of something. Economy of words.
+Careful management of available resources. Sparing or careful use of something. "Omitting needless words gives your writing an economy which readers will appreciate."
 ## Sensitivity
-Careful use of appropriate words that build the correct concepts in the mind of the reader. Understanding the thoughts of the reader in order to build up the right concepts in their mind.
+Careful use of appropriate words that build the correct concepts in the mind of the reader. Understanding the thoughts of the reader in order to build up the right concepts in their mind. "The writer tried to show sufficient sensitivity when discussing the topic of gender pay equality."
 ## Clarity
-The quality of being coherent and intelligible. For the sake of clarity each of these subjects is dealt with separately. The quality of being certain or definite. It was clarity of purpose that he needed.
+The quality of being coherent and intelligible. "For the sake of clarity each of these subjects is described separately."
 ## Emphasis
-Special importance, value, or prominence given to something. They placed great emphasis on the individuals freedom. Different emphases and viewpoints. Stress laid on a word or words to indicate special meaning or importance.
+Special importance, value, or prominence given to something. Stress laid on a word or words to indicate special meaning or importance. "The writeup discussed many effects of the new product, but it put emphasis on the overall feeling of health on the part of the consumer."
 ## Flow
-The property of a group of words that indicates a continuous connection between how subgroups are written. The rhythym of the sentences gave the piece an excellent flow.
+The property of a group of words that indicates a continuous connection between how subgroups are written. "The rhythym of the sentences gave the piece an excellent flow."
 ## Suspense
-A state or feeling of anxious or excited uncertainty about what may happen. Come on Fran, don’t keep me in suspense! A quality in writing that arouses excited expectation or uncertainty about what may happen.
+A quality in writing that arouses excited expectation or uncertainty about what may happen. "The author asked some intriguing questions to build a little bit of suspense around what would have been a dry subject."
 ## Specificity
-The property of a concept that indicates whether it is built from abstract words and phrases or specific and concrete words and phrases. "We made lots of improvements to the house" vs "We repainted all the rooms and refinished the floors."
+The property of a concept that describes how abstract or concrete it is. "The author was not specific about the renovations that were being made until they mentioned that the kitchens and bathrooms were being gutted and replaced."
 ## Precision
-How closely writing represents the intended concepts and information. "The kids were tired after the trip." vs "The kids couldn't do much after walking 4 miles through the airport." 
+How closely writing represents the intended concepts and information. "The kids were tired after their afternoon." vs "The kids couldn't do much after walking 4 miles through the airport." 
 ## Proportion
 Proportion in writing can be defined as the amount of details you give, and the time you spend giving them, versus the importance of those details and the length of the scene. [link](https://www.universalclass.com/articles/writing/writing-improvement-proportion-your-writing-details-for-impact.htm) 
 ## Depth
