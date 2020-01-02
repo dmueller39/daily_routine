@@ -24,6 +24,8 @@
   - Execution
     - This is a nice cross section between a Netflix style media subscription service, Patreon (which allows you to give to creators), and a traditional social media outlet.
     - This shouldn't be seen as competing with Twitter, Youtube, and other open social media services. It would be meant to be complement
-
-
-    
+- Movie Gif
+  - perform a text search for any movie, actor, action, dialog, etc and get gifs automatically.
+  - Examples:
+    - "Alfred Molina rubbing his fingers in Indiana Jones"
+    - "Andy Garcia catching the baby carriage in untouchables"
