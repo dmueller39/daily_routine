@@ -1,0 +1,18 @@
+- Intro
+  - What am I going to talk about
+  - What are my motivations
+- A Model for Conceptual Combination
+  - intro to the conceptual combination
+  - simple written example
+  - effort vs depth
+  - "omit needless words" how a lot of words can have zero effect on the depth of a concept
+  - "add depth" how a few words can increase the depth of a concept
+  - available effort (different people have different capacities for volume)
+  - automatic laziness (the brain is always trying to do the same work with less effort)
+- Writing Qualities 
+  - every writing quality and how it maps to our model for conceptual combination
+- Modern Media
+  - Why is twitter popular?
+  - Why is Snap MORE popular?
+- Book + Ebook format
+  - What is the effort required for reading
