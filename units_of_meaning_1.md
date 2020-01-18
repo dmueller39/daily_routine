@@ -66,7 +66,7 @@ The graphic above is meant to illustrate that for approximately the same level o
 
 I'd like to propose the following points that I intend to fully explore in this series of articles:
 
-1. People would prefer to do less work in order to build a concept.
+1. People would prefer to do less work in order to build a concept. [^1]
 2. The depth of any concept is directly related to the comprehension effort.
 3. People are seeking depth when they consume media. This may be intellectual or emotional depth.
 4. The decoding effort is not a fixed amount and can be reduced with appropriate familiarity with the decoding methods. However it can't be reduced to zero.
@@ -75,7 +75,7 @@ I'd like to propose the following points that I intend to fully explore in this 
 
 ## How it can be Applied
 
-This model can be applied to some interesting domains that I'd like to write more about in the future. Let's briefly look at a few:
+This model[^2] can be applied to some interesting domains that I'd like to write more about in the future. Let's briefly look at a few:
 
 _Writing Qualities_
 
@@ -87,12 +87,16 @@ There has been a marked shift of usage from desktop to mobile. I'd like to explo
 
 _Social Media_
 
-For the longest time I wondered why Snapchat was popular. Teens liking disappearing messages didn't feel like enough of an explanation to me. There had to be something more interesting going on. I'd like to apply this model to Snapchat, Twitter, and a few others in some future aricles. (Disclosure, I work for Facebook, so I'll avoid discussing products owned by Facebook for simplicity. There is plenty to talk about in the other products.)
+For the longest time I wondered why Snapchat was popular. Teens liking disappearing messages didn't feel like enough of an explanation to me. There had to be something more interesting going on. I feel this model explains part of the reason why snapchats method of consumption is popular. I'd like to apply this model to Snapchat, Twitter, and a few others in some future aricles. (Disclosure, I work for Facebook, so I'll avoid discussing products owned by Facebook for simplicity. There is plenty to talk about in the other products.)
 
 _Books_
 
-Books have a lot of interesting mechanics going on, and it was actually my exploration into building a better reader that made me start thinking about this.
+Books have a lot of interesting mechanics going on, and it was actually my exploration into building a better reader that made me start thinking about this.[^3]
 
-## Caveat
+## Notes
 
-This is an imperfect model, and it will probably need to be revised over time. More importantly the purpose of this model isn't to make scientific predictions that can be proven in experiments. The purpose is an easy framework for thinking about how people build meaning. I am reminded of Feynman diagrams (caveat, I don't fully understand Feynman diagrams) which are a way of organizing the math of particle physics. This model is attempting to do the same job, which is creating an easier to think about abstraction for how people build concepts.
+[^1] A book I recently read that reminded me of this was [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555). It specifically mentioned the more rational part of the brain (which is called System 2 in the book) as being lazy. The intuitive part of the brain (System 1) tries to do as much of the work as it can for System 2.
+
+[^2]: This is an imperfect model, and it will probably need to be revised over time. More importantly the purpose of this model isn't to make scientific predictions that can be proven in experiments. The purpose is an easy framework for thinking about how people build meaning. I am reminded of [Feynman diagrams](https://simple.wikipedia.org/wiki/Feynman_diagram) which are a way of organizing the math of particle physics. This model is attempting to do the same job, which is creating an easier to think about abstraction for how people build concepts.
+
+[^3] I've already tried to organize my thinking about this before in [this video](https://www.youtube.com/watch?v=CIwi5Dctvh8) but not through the framework that I am proposing here.
