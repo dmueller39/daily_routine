@@ -109,3 +109,7 @@ You can think
 - Everyone wants a more efficient unit of meaning that provides more depth for less investment
   - The popularity of Story Elements indicates that there is a desire for deeper interactions.
   - My motivation for building BookClub was due to my inability to read anything other than very “light” books, despite wanting a lot more depth in my media diet.
+
+## come @ me
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">How do you define effort when consuming media? I try my hand at explaining in my first article on Units of Meaning: <a href="https://t.co/Rov92iJb34">https://t.co/Rov92iJb34</a></p>&mdash; Daniel Mueller (@dmueller39) <a href="https://twitter.com/dmueller39/status/1218521794531020800?ref_src=twsrc%5Etfw">January 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
