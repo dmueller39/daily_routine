@@ -123,3 +123,7 @@ He does have an option to get it out earlier. He _could_ just be more like Bob, 
 ## My Writing
 
 I am still pretty close to the beginning of my journey like Bob at the beginning of his. I wrote this piece asking "what is the next most interesting thing I could say related to this subject." I covered a good portion of what I wanted to, and I think its an improvement in readability in comparison to my first article. On the other hand I had planned a section on the writing quality of "flow" and how it relates to the pantser style of writing. The problem was that the pantser style of writing didn't naturally take me there. If I want to say everything I want to say, I may need to work like a plotter. If I want to emphasize readability, I may need to work like a panster. But I don't see myself trying both without being practical about how long it will take.
+
+## Tweet
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Where I reveal my long standing desire to become an author and attempt to explain why Winds of Winter will still take a long time to write: <a href="https://t.co/cxUF4wSPV1">https://t.co/cxUF4wSPV1</a></p>&mdash; Daniel Mueller (@dmueller39) <a href="https://twitter.com/dmueller39/status/1224320674304532481?ref_src=twsrc%5Etfw">February 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
