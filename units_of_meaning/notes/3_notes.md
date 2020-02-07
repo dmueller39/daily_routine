@@ -1,4 +1,6 @@
-# Measuring Comprehensibility
+# Notes on Measuring Comprehensibility
+
+Freeform notes on measuring the comprehensibility of software.
 
 ## Statically Checkable Design Level Traits
 
