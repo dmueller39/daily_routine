@@ -4,8 +4,7 @@ We are going to use HTML, CSS, and JavaScript to build a simple game called frui
 
 Here is what the final product will be:
 
-<iframe src="https://fruit-picker-complete.danieldean.repl.co/" width="500" height="300"></iframe>
-
+<p><iframe src="https://fruit-picker-complete.danieldean.repl.co/" width="500" height="300"></iframe></p>
 ## Getting the template
 
 If you visit this URL: https://repl.it/@DanielDean/fruit-picker-template you should be able to click a button called "fork" ans create your own copy. This has all the html and css you need! You will only need to write JavaScript. However we'll do a walkthrough of the HTML and CSS before writing anything.
@@ -92,7 +91,7 @@ This should be empty! We will fix that in a little bit.
 
 The nice thing about html is that you can point to any image that is on the internet, and it should work. For instance I picked this image from wikimedia:
 
-![wikimedia apple](https://upload.wikimedia.org/wikipedia/commons/7/73/Apple_clipart.png "wikimedia apple")
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Apple_clipart.png" alt="wikimedia apple" width="300"/>
 
 The url is `https://upload.wikimedia.org/wikipedia/commons/7/73/Apple_clipart.png`
 
