@@ -17,7 +17,7 @@ Our instinct as engineers is to create systems that make it impossible to write 
 
 > Many names were used in the literature to label the design decisions which are to be enforced. These include, for example, Jackson’s aspect [13], formal design constraints [17], laws[24], contracts [12], invariants [22], static integrity constraints [3], assertions [23], etc.
 
-Since software design is this messy and sometimes ambiguous field, I feel like there has been a struggle to define a language that everyone agrees on. People watch industry trends, and agree that trend X indicates a good design direction, but that requires that industry produces these advances.
+Since software design is this messy and sometimes ambiguous field, I feel like there has been a struggle to define a language that everyone agrees on. People watch industry trends, and agree that trend X indicates a good design direction, but that requires that industry adopts these advances.
 
 > These also include design patterns, pattern languages and software architectures which are very difficult to rigorously express
 
